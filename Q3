@@ -1,0 +1,27 @@
+Problem
+
+Count the number of times the phrase "i love to code" can be generated from the given set of datastream containing characters from a-z.
+
+Input
+
+First line contains the number of test cases T
+
+T test cases follow.
+
+Output
+
+Print "Case #x : " followed by the number of times the string can be created.
+
+
+Sample Input
+
+3
+ilovetocodeabdeco
+ilovaoeuetocodeiaoeulovetoaoeacode
+abcdefgh
+
+Output
+
+Case #1: 1
+Case #2: 2
+Case #3: 0
